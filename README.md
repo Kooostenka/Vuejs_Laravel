@@ -1,5 +1,7 @@
 ##Install
 
+Добавить файл .env c настройками БД.
+
 composer install
 
 npm i
